@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CursoKotlin:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4579bf0c-f840-4b14-9cf4-211895d27ba2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uhj3MtxrlZA1PGNQCvQSiSusuY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager" selected="Kotlin.avancado.AnotacaoComReflexaoKt">
+    <configuration name="avancado.AnotacaoComReflexaoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CursoKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="avancado.AnotacaoComReflexaoKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="avancado.GenericosKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CursoKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="avancado.GenericosKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="avancado.RecursaoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CursoKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="avancado.RecursaoKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="avancado.SobrecargaDeOperadoresKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CursoKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="avancado.SobrecargaDeOperadoresKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oo.polimorfismo.ComPolimorfismoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CursoKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="oo.polimorfismo.ComPolimorfismoKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.avancado.AnotacaoComReflexaoKt" />
+        <item itemvalue="Kotlin.avancado.SobrecargaDeOperadoresKt" />
+        <item itemvalue="Kotlin.avancado.GenericosKt" />
+        <item itemvalue="Kotlin.avancado.RecursaoKt" />
+        <item itemvalue="Kotlin.oo.polimorfismo.ComPolimorfismoKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4579bf0c-f840-4b14-9cf4-211895d27ba2" name="Default Changelist" comment="" />
+      <created>1575815520588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575815520588</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1324" height="194" key="GridCell.Tab.0.bottom" timestamp="1577741579651">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="194" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577741579651" />
+    <state width="1324" height="194" key="GridCell.Tab.0.center" timestamp="1577741579650">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="194" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577741579650" />
+    <state width="1324" height="194" key="GridCell.Tab.0.left" timestamp="1577741579649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="194" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577741579649" />
+    <state width="1324" height="194" key="GridCell.Tab.0.right" timestamp="1577741579650">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="194" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577741579650" />
+    <state x="187" y="0" width="1024" height="723" key="SettingsEditor" timestamp="1577724502210">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="187" y="0" width="1024" height="723" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577724502210" />
+    <state x="366" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1575815530471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="366" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1575815530471" />
+    <state x="253" y="135" width="852" height="593" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1577049849369">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="253" y="135" width="852" height="593" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1577049849369" />
+    <state x="43" y="0" width="791" height="728" key="find.popup" timestamp="1576442387875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="43" y="0" width="791" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1576442387875" />
+    <state x="99" y="90" width="1157" height="540" key="new project wizard" timestamp="1577741571383">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="99" y="90" width="1157" height="540" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1577741571383" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1577735815912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1577735815912" />
+  </component>
+</project>
